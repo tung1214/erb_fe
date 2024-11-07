@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/erb_fe/static/css/main.e495fa18.css",
+    "main.js": "/erb_fe/static/js/main.d1e99aa6.js",
+    "static/media/3.png": "/erb_fe/static/media/3.d14d53189a8abc2fb4a0.png",
+    "static/media/4.png": "/erb_fe/static/media/4.c35e0c87da161c2090cc.png",
+    "static/media/1.jpg": "/erb_fe/static/media/1.fd66c61f143aa6dff123.jpg",
+    "static/media/2.jpg": "/erb_fe/static/media/2.8d26fc00ad8f5c027463.jpg",
+    "static/media/beach & girl.jpg": "/erb_fe/static/media/beach & girl.e18977ab2ae4a4fc8cec.jpg",
+    "static/media/about.jpeg": "/erb_fe/static/media/about.42115b260310850c3023.jpeg",
+    "static/media/logo.svg": "/erb_fe/static/media/logo.f270c98d2d6ea17d23dc10e1676da17d.svg",
+    "index.html": "/erb_fe/index.html",
+    "main.e495fa18.css.map": "/erb_fe/static/css/main.e495fa18.css.map",
+    "main.d1e99aa6.js.map": "/erb_fe/static/js/main.d1e99aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e495fa18.css",
+    "static/js/main.d1e99aa6.js"
+  ]
+}
